@@ -1,6 +1,23 @@
 # Stock Market Data Analysis
 Comparing various trading strategies in a Python based program for stock market data from Y!Finance library, visualizing S&amp;P 500 data using Tableau, and predicting stock prices using the LSTM artificial neural network model.
 
+# Table of Contents
+  - [Data](#data)
+    - [Y!Finance Package](#yfinance-package)
+    - [S&P 500](#sp-500)
+  - [Exploratory Method](#exploratory-method)
+    - [Trading Strategy](#trading-strategy)
+      - [Simple Moving Average](#simple-moving-average)
+      - [Mean Reversion](#mean-reversion)
+      - [LSTM Model](#lstm-model)
+    - [Prediction with LSTM Model](#Prediction with LSTM Model)
+  - [Analysis](#Analysis)
+    - [Stock Market Data Exploration](#Stock Market Data Exploration)
+    - [Comparing Trading Strategies](#Comparing Trading Strategies)
+    - [LSTM Model Results] (#LSTM Model Results)
+  - [Conclusion](#Conclusion)
+     
+
 
 
 ## Data
