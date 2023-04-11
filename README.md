@@ -10,11 +10,11 @@ Comparing various trading strategies in a Python based program for stock market 
       - [Simple Moving Average](#simple-moving-average)
       - [Mean Reversion](#mean-reversion)
       - [LSTM Model](#lstm-model)
-    - [Prediction with LSTM Model](#Prediction with LSTM Model)
+    - [Prediction with LSTM Model](#Prediction-with-LSTM-Model)
   - [Analysis](#Analysis)
-    - [Stock Market Data Exploration](#Stock Market Data Exploration)
-    - [Comparing Trading Strategies](#Comparing Trading Strategies)
-    - [LSTM Model Results] (#LSTM Model Results)
+    - [Stock Market Data Exploration](#Stock-Market-Data-Exploration)
+    - [Comparing Trading Strategies](#Comparing-Trading-Strategies)
+    - [LSTM Model Results] (#LSTM-Model-Results)
   - [Conclusion](#Conclusion)
      
 
