@@ -14,7 +14,7 @@ Comparing various trading strategies in a Python based program for stock market 
   - [Analysis](#Analysis)
     - [Stock Market Data Exploration](#Stock-Market-Data-Exploration)
     - [Comparing Trading Strategies](#Comparing-Trading-Strategies)
-    - [LSTM Model Results] (#LSTM-Model-Results)
+    - [LSTM Model Results](#LSTM-Model-Results)
   - [Conclusion](#Conclusion)
      
 
